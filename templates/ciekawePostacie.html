@@ -1,0 +1,8 @@
+<h1>Postacie w kolejności ilości słów w opisie:</h1>
+{% for p, o, d, w in heroes_desc %}
+    <h1>{{p}}</h1>
+    <p>{{o}}</p>
+    <p>{{d}}</p>
+    <p>{{w}}</p>
+    <p>Ilość słów w każdym opisie</p>
+{% endfor %}

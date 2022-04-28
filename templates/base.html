@@ -1,0 +1,9 @@
+<div class="navbar-end">
+    <a href="{{ url_for('index') }}" class="navbar-item">Domek</a>
+     <a href="{{ url_for('form_a') }}" class="navbar-item">Tutaj się uczyłeś</a>
+     <a href="{{ url_for('form_b') }}" class="navbar-item">A tutaj zapodajemy muzyczkę</a>
+</div>
+
+<div class="container">
+    {% block content %} {% endblock %}
+</div>
