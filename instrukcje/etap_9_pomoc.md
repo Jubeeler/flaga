@@ -4,8 +4,7 @@
 
 
 
-### Ten etap jest w przebudowie. Będzie niedługo aktywny (do wtorku)
-
+### Wyrusz ze wsparciem dla innych którzy też chcą przejść Szturm na AWS
 
 
 Udało się. Zdobyłeś serwer i flaga została powieszona.
@@ -19,4 +18,4 @@ Tu na kanale #pomaganie wymieniać się naszymi doświadczeniami i wiedzą jak p
 2. Można zakładać pokoje do pomocy innym - będziemy z tym eksperymentować i o tym mówić niebawem.
 3. Zbierzemy też za pare dni materiały video i tekstowe w całosć, aby były pod ręką.
 
-**Przejdź dalej:** [Etap 10 - Rozdroże - Instrukcje](http://bityl.pl/g7LrS)
+**Przejdź dalej:** [Etap 10 - Rozdroże - Instrukcje](https://github.com/ZPXD/flaga/blob/main/instrukcje/etap_10_rozdroze.md)

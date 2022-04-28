@@ -16,7 +16,7 @@
 
 tak aby była wystawiona w internecie i zobaczysz swoją stronę www sieci pod linkiem domeny. 
 
-[Obejrzyj film jaks przygotować serwer, postawić stronę i powiesić flagę w wersji ASAP (w 5 minut)]()
+[Obejrzyj film jaks przygotować serwer, postawić stronę i powiesić flagę w wersji ASAP (w 12 minut)](https://www.youtube.com/watch?v=8druPxZBwew)
 
 
 
@@ -496,4 +496,4 @@ exit
 A strona nadal będzie stała w internecie.
 
 
-**Przejdź dalej:** [Etap 8 - Materiały i Jupyter - Instrukcje](http://bityl.pl/7efYd)
+**Przejdź dalej:** [Etap 8 - Materiały i Jupyter - Instrukcje](https://github.com/ZPXD/flaga/blob/main/instrukcje/etap_8_materialy_i_jupyter.md)
